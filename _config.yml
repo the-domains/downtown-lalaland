@@ -1,0 +1,14 @@
+layout_spectrum: 0.07245586789213121
+typography_spectrum: 0.35145369335077703
+color:
+  brandStrength: 0.4908824514131993
+  lightness: 0.5773357101716101
+  saturation: 0.4227686636149883
+  rhythmicContrast: 0.5218155458569527
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: Downtown LAlaland
